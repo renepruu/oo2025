@@ -46,3 +46,19 @@ public class Product {
 //        System.out.println("Kasutaja xxx muutis hinda. ID: " + this.id);
 //    }
 }
+
+// kui on väikse tähega:
+// long
+// char
+// double
+// boolean
+// primitiivsed väärtused. ainult väärtuse hoidmiseks
+
+// kui on suure tähega:
+// Long
+// String
+// Character
+// Double
+// Boolean
+// klassiväärtused. nende sees on ka funktsioonid.
+
